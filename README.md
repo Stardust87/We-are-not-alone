@@ -1,8 +1,8 @@
 # We-are-not-alone
 
-#Overwiev
+# Overwiev
 
-#Installation
+# Installation
 
 
-#Rules and controls
+# Rules and controls

@@ -28,3 +28,7 @@ After running `main.py` file user will see on the splash screen instruction refe
 	* rocket destroys all alien spaceships and win
 	* rocket loses all health and lose 
 * after game ending player see splash screen again and can start new game
+
+ ## Sample graphics
+ 
+![graphic1](https://github.com/Stardust87/We-are-not-alone/blob/main/assets/screen4.png)

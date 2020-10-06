@@ -1,6 +1,15 @@
 # We are not alone
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 ## Overview
 _We are not alone_ is a shooter game made in Python using PyGame and LiveWires libraries. Action takes place in the space and concerns fight between player (_rocket_) and aliens (their _spaceships_).  All the graphics has been created by author in PaintNet.
+
+## Requirements
+
+[![Generic badge](https://img.shields.io/badge/Python-3.x-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/PyGame-1.9.5-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/LiveWires-2.0-<COLOR>.svg)](https://shields.io/)
 
 ## Installation
  Below a few console commands to run a game  
